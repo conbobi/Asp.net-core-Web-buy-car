@@ -1,0 +1,311 @@
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\appsettings.Development.json
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\appsettings.json
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\ASC.WEB.staticwebassets.runtime.json
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\ASC.WEB.exe
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\ASC.WEB.deps.json
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\ASC.WEB.runtimeconfig.json
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\ASC.WEB.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\ASC.WEB.pdb
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\ASC.Framework.Domain.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\ASC.Framework.Infrastructure.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\Azure.Core.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\Azure.Identity.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\Flunt.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\Humanizer.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\System.CodeDom.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\System.Memory.Data.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\obj\Debug\net8.0\ASC.WEB.csproj.AssemblyReference.cache
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\obj\Debug\net8.0\ASC.WEB.GeneratedMSBuildEditorConfig.editorconfig
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\obj\Debug\net8.0\ASC.WEB.AssemblyInfoInputs.cache
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\obj\Debug\net8.0\ASC.WEB.AssemblyInfo.cs
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\obj\Debug\net8.0\ASC.WEB.csproj.CoreCompileInputs.cache
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\obj\Debug\net8.0\ASC.WEB.MvcApplicationPartsAssemblyInfo.cs
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\obj\Debug\net8.0\ASC.WEB.MvcApplicationPartsAssemblyInfo.cache
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\obj\Debug\net8.0\ASC.WEB.RazorAssemblyInfo.cache
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\obj\Debug\net8.0\ASC.WEB.RazorAssemblyInfo.cs
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\obj\Debug\net8.0\staticwebassets.build.json
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\obj\Debug\net8.0\staticwebassets.development.json
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\obj\Debug\net8.0\staticwebassets\msbuild.ASC.WEB.Microsoft.AspNetCore.StaticWebAssets.props
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\obj\Debug\net8.0\staticwebassets\msbuild.build.ASC.WEB.props
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ASC.WEB.props
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ASC.WEB.props
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\obj\Debug\net8.0\staticwebassets.pack.json
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\obj\Debug\net8.0\scopedcss\bundle\ASC.WEB.styles.css
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\obj\Debug\net8.0\scopedcss\projectbundle\ASC.WEB.bundle.scp.css
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\obj\Debug\net8.0\ASC.WEB.csproj.Up2Date
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\obj\Debug\net8.0\ASC.WEB.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\obj\Debug\net8.0\refint\ASC.WEB.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\obj\Debug\net8.0\ASC.WEB.pdb
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\obj\Debug\net8.0\ASC.WEB.genruntimeconfig.cache
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\obj\Debug\net8.0\ref\ASC.WEB.dll
+D:\TH_TKPM&KT\bài lap 1\ASC.Solution\ASC.WEB\bin\Debug\net8.0\appsettings.Production.json
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\appsettings.Development.json
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\appsettings.json
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\appsettings.Production.json
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\ASC.WEB.staticwebassets.runtime.json
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\ASC.WEB.exe
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\ASC.WEB.deps.json
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\ASC.WEB.runtimeconfig.json
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\ASC.WEB.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\ASC.WEB.pdb
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\ASC.Framework.Domain.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\ASC.Framework.Infrastructure.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\Azure.Core.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\Azure.Identity.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\Flunt.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\Humanizer.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\System.CodeDom.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\obj\Debug\net8.0\ASC.WEB.csproj.AssemblyReference.cache
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\obj\Debug\net8.0\ASC.WEB.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\obj\Debug\net8.0\ASC.WEB.AssemblyInfoInputs.cache
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\obj\Debug\net8.0\ASC.WEB.AssemblyInfo.cs
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\obj\Debug\net8.0\ASC.WEB.csproj.CoreCompileInputs.cache
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\obj\Debug\net8.0\ASC.WEB.MvcApplicationPartsAssemblyInfo.cs
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\obj\Debug\net8.0\ASC.WEB.MvcApplicationPartsAssemblyInfo.cache
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\obj\Debug\net8.0\ASC.WEB.RazorAssemblyInfo.cache
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\obj\Debug\net8.0\ASC.WEB.RazorAssemblyInfo.cs
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\obj\Debug\net8.0\ASC.WEB.sourcelink.json
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\obj\Debug\net8.0\staticwebassets.build.json
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\obj\Debug\net8.0\staticwebassets.development.json
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\obj\Debug\net8.0\staticwebassets\msbuild.ASC.WEB.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\obj\Debug\net8.0\staticwebassets\msbuild.build.ASC.WEB.props
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ASC.WEB.props
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ASC.WEB.props
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\obj\Debug\net8.0\scopedcss\bundle\ASC.WEB.styles.css
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\obj\Debug\net8.0\scopedcss\projectbundle\ASC.WEB.bundle.scp.css
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\obj\Debug\net8.0\ASC.WEB.csproj.Up2Date
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\obj\Debug\net8.0\ASC.WEB.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\obj\Debug\net8.0\refint\ASC.WEB.dll
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\obj\Debug\net8.0\ASC.WEB.pdb
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\obj\Debug\net8.0\ASC.WEB.genruntimeconfig.cache
+E:\Mon_Hoc\Th_Architectual_Design\ASC.WEB\obj\Debug\net8.0\ref\ASC.WEB.dll

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Mon_Hoc\\Th_Architectual_Design\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD92F479-9D9A-40A9-8A3D-2BDD18C49F3E}|ASC.WEB\\ASC.WEB.csproj|e:\\mon_hoc\\th_architectual_design\\asc.web\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD92F479-9D9A-40A9-8A3D-2BDD18C49F3E}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "E:\\Mon_Hoc\\Th_Architectual_Design\\ASC.WEB\\Views\\Home\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "ASC.WEB\\Views\\Home\\Dashboard.cshtml",
+              "ToolTip": "E:\\Mon_Hoc\\Th_Architectual_Design\\ASC.WEB\\Views\\Home\\Dashboard.cshtml",
+              "RelativeToolTip": "ASC.WEB\\Views\\Home\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T13:47:41.764Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
