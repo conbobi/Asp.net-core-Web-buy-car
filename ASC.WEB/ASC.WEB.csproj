@@ -4,15 +4,16 @@
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+	  <InvariantGlobalization>false</InvariantGlobalization>
     <UserSecretsId>aspnet-ASC.WEB-09a83e09-19d4-4838-969b-363f70404850</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="ASC.Framework.Infrastructure" Version="1.1.1" />
-    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="8.0.6" />
-    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.6" />
+    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="8.0.11" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.11" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="8.0.6" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.11" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.6" />
     <PackageReference Include="Microsoft.Extensions.Configuration" Version="9.0.2" />
     <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="9.0.2" />
@@ -22,6 +23,13 @@
   <ItemGroup>
     <Folder Include="wwwroot\NewFolder2\" />
     <Folder Include="wwwroot\font\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ASC.Bussiness\ASC.Bussiness.csproj" />
+    <ProjectReference Include="..\ASC.DataAccess\ASC.DataAccess.csproj" />
+    <ProjectReference Include="..\ASC.Model\ASC.Model.csproj" />
+    <ProjectReference Include="..\ASC.Utilities\ASC.Utilities.csproj" />
   </ItemGroup>
 
 </Project>

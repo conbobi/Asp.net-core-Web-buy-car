@@ -1,10 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Mon_Hoc\\Th_Architectual_Design\\",
+  "WorkspaceRootPath": "D:\\Mon_Hoc\\TH_Design_Software\\Asp.net-core-Web-buy-car\\Asp.net-core-Web-buy-car\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DD92F479-9D9A-40A9-8A3D-2BDD18C49F3E}|ASC.WEB\\ASC.WEB.csproj|e:\\mon_hoc\\th_architectual_design\\asc.web\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DD92F479-9D9A-40A9-8A3D-2BDD18C49F3E}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DD92F479-9D9A-40A9-8A3D-2BDD18C49F3E}|ASC.WEB\\ASC.WEB.csproj|d:\\mon_hoc\\th_design_software\\asp.net-core-web-buy-car\\asp.net-core-web-buy-car\\asc.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DD92F479-9D9A-40A9-8A3D-2BDD18C49F3E}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD92F479-9D9A-40A9-8A3D-2BDD18C49F3E}|ASC.WEB\\ASC.WEB.csproj|d:\\mon_hoc\\th_design_software\\asp.net-core-web-buy-car\\asp.net-core-web-buy-car\\asc.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD92F479-9D9A-40A9-8A3D-2BDD18C49F3E}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD92F479-9D9A-40A9-8A3D-2BDD18C49F3E}|ASC.WEB\\ASC.WEB.csproj|d:\\mon_hoc\\th_design_software\\asp.net-core-web-buy-car\\asp.net-core-web-buy-car\\asc.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD92F479-9D9A-40A9-8A3D-2BDD18C49F3E}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A368166-621F-4E0D-BF94-439643CC4CB0}|ASC.Model\\ASC.Model.csproj|d:\\mon_hoc\\th_design_software\\asp.net-core-web-buy-car\\asp.net-core-web-buy-car\\asc.model\\models\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A368166-621F-4E0D-BF94-439643CC4CB0}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\models\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A368166-621F-4E0D-BF94-439643CC4CB0}|ASC.Model\\ASC.Model.csproj|d:\\mon_hoc\\th_design_software\\asp.net-core-web-buy-car\\asp.net-core-web-buy-car\\asc.model\\models\\masterdatakey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A368166-621F-4E0D-BF94-439643CC4CB0}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\models\\masterdatakey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD92F479-9D9A-40A9-8A3D-2BDD18C49F3E}|ASC.WEB\\ASC.WEB.csproj|d:\\mon_hoc\\th_design_software\\asp.net-core-web-buy-car\\asp.net-core-web-buy-car\\asc.web\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD92F479-9D9A-40A9-8A3D-2BDD18C49F3E}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD92F479-9D9A-40A9-8A3D-2BDD18C49F3E}|ASC.WEB\\ASC.WEB.csproj|d:\\mon_hoc\\th_design_software\\asp.net-core-web-buy-car\\asp.net-core-web-buy-car\\asc.web\\data\\migrations\\20250304083011_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD92F479-9D9A-40A9-8A3D-2BDD18C49F3E}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\data\\migrations\\20250304083011_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD92F479-9D9A-40A9-8A3D-2BDD18C49F3E}|ASC.WEB\\ASC.WEB.csproj|d:\\mon_hoc\\th_design_software\\asp.net-core-web-buy-car\\asp.net-core-web-buy-car\\asc.web\\asc.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DD92F479-9D9A-40A9-8A3D-2BDD18C49F3E}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\asc.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD92F479-9D9A-40A9-8A3D-2BDD18C49F3E}|ASC.WEB\\ASC.WEB.csproj|d:\\mon_hoc\\th_design_software\\asp.net-core-web-buy-car\\asp.net-core-web-buy-car\\asc.web\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD92F479-9D9A-40A9-8A3D-2BDD18C49F3E}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A368166-621F-4E0D-BF94-439643CC4CB0}|ASC.Model\\ASC.Model.csproj|d:\\mon_hoc\\th_design_software\\asp.net-core-web-buy-car\\asp.net-core-web-buy-car\\asc.model\\models\\masterdatavalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A368166-621F-4E0D-BF94-439643CC4CB0}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\models\\masterdatavalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD92F479-9D9A-40A9-8A3D-2BDD18C49F3E}|ASC.WEB\\ASC.WEB.csproj|d:\\mon_hoc\\th_design_software\\asp.net-core-web-buy-car\\asp.net-core-web-buy-car\\asc.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD92F479-9D9A-40A9-8A3D-2BDD18C49F3E}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD92F479-9D9A-40A9-8A3D-2BDD18C49F3E}|ASC.WEB\\ASC.WEB.csproj|d:\\mon_hoc\\th_design_software\\asp.net-core-web-buy-car\\asp.net-core-web-buy-car\\asc.web\\configuration\\applicationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD92F479-9D9A-40A9-8A3D-2BDD18C49F3E}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\configuration\\applicationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD92F479-9D9A-40A9-8A3D-2BDD18C49F3E}|ASC.WEB\\ASC.WEB.csproj|d:\\mon_hoc\\th_design_software\\asp.net-core-web-buy-car\\asp.net-core-web-buy-car\\asc.web\\data\\identityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD92F479-9D9A-40A9-8A3D-2BDD18C49F3E}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\data\\identityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD92F479-9D9A-40A9-8A3D-2BDD18C49F3E}|ASC.WEB\\ASC.WEB.csproj|d:\\mon_hoc\\th_design_software\\asp.net-core-web-buy-car\\asp.net-core-web-buy-car\\asc.web\\data\\iidentityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD92F479-9D9A-40A9-8A3D-2BDD18C49F3E}|ASC.WEB\\ASC.WEB.csproj|solutionrelative:asc.web\\data\\iidentityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A368166-621F-4E0D-BF94-439643CC4CB0}|ASC.Model\\ASC.Model.csproj|d:\\mon_hoc\\th_design_software\\asp.net-core-web-buy-car\\asp.net-core-web-buy-car\\asc.model\\basetypes\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A368166-621F-4E0D-BF94-439643CC4CB0}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\basetypes\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,24 +70,196 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250304083011_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Mon_Hoc\\TH_Design_Software\\Asp.net-core-Web-buy-car\\Asp.net-core-Web-buy-car\\ASC.WEB\\Data\\Migrations\\20250304083011_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ASC.WEB\\Data\\Migrations\\20250304083011_InitialCreate.cs",
+              "ToolTip": "D:\\Mon_Hoc\\TH_Design_Software\\Asp.net-core-Web-buy-car\\Asp.net-core-Web-buy-car\\ASC.WEB\\Data\\Migrations\\20250304083011_InitialCreate.cs",
+              "RelativeToolTip": "ASC.WEB\\Data\\Migrations\\20250304083011_InitialCreate.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T13:03:56.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Mon_Hoc\\TH_Design_Software\\Asp.net-core-Web-buy-car\\Asp.net-core-Web-buy-car\\ASC.WEB\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ASC.WEB\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Mon_Hoc\\TH_Design_Software\\Asp.net-core-Web-buy-car\\Asp.net-core-Web-buy-car\\ASC.WEB\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ASC.WEB\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T09:21:54.285Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Dashboard.cshtml",
-              "DocumentMoniker": "E:\\Mon_Hoc\\Th_Architectual_Design\\ASC.WEB\\Views\\Home\\Dashboard.cshtml",
-              "RelativeDocumentMoniker": "ASC.WEB\\Views\\Home\\Dashboard.cshtml",
-              "ToolTip": "E:\\Mon_Hoc\\Th_Architectual_Design\\ASC.WEB\\Views\\Home\\Dashboard.cshtml",
-              "RelativeToolTip": "ASC.WEB\\Views\\Home\\Dashboard.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-23T13:47:41.764Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Mon_Hoc\\TH_Design_Software\\Asp.net-core-Web-buy-car\\Asp.net-core-Web-buy-car\\ASC.WEB\\appsettings.json",
+              "RelativeDocumentMoniker": "ASC.WEB\\appsettings.json",
+              "ToolTip": "D:\\Mon_Hoc\\TH_Design_Software\\Asp.net-core-Web-buy-car\\Asp.net-core-Web-buy-car\\ASC.WEB\\appsettings.json",
+              "RelativeToolTip": "ASC.WEB\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-04T09:44:40.445Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Mon_Hoc\\TH_Design_Software\\Asp.net-core-Web-buy-car\\Asp.net-core-Web-buy-car\\ASC.WEB\\Program.cs",
+              "RelativeDocumentMoniker": "ASC.WEB\\Program.cs",
+              "ToolTip": "D:\\Mon_Hoc\\TH_Design_Software\\Asp.net-core-Web-buy-car\\Asp.net-core-Web-buy-car\\ASC.WEB\\Program.cs",
+              "RelativeToolTip": "ASC.WEB\\Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T08:43:05.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MasterDatakey.cs",
+              "DocumentMoniker": "D:\\Mon_Hoc\\TH_Design_Software\\Asp.net-core-Web-buy-car\\Asp.net-core-Web-buy-car\\ASC.Model\\Models\\MasterDatakey.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\Models\\MasterDatakey.cs",
+              "ToolTip": "D:\\Mon_Hoc\\TH_Design_Software\\Asp.net-core-Web-buy-car\\Asp.net-core-Web-buy-car\\ASC.Model\\Models\\MasterDatakey.cs",
+              "RelativeToolTip": "ASC.Model\\Models\\MasterDatakey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T13:03:06.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Mon_Hoc\\TH_Design_Software\\Asp.net-core-Web-buy-car\\Asp.net-core-Web-buy-car\\ASC.WEB\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ASC.WEB\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Mon_Hoc\\TH_Design_Software\\Asp.net-core-Web-buy-car\\Asp.net-core-Web-buy-car\\ASC.WEB\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ASC.WEB\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T08:43:00.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceRequest.cs",
+              "DocumentMoniker": "D:\\Mon_Hoc\\TH_Design_Software\\Asp.net-core-Web-buy-car\\Asp.net-core-Web-buy-car\\ASC.Model\\Models\\ServiceRequest.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\Models\\ServiceRequest.cs",
+              "ToolTip": "D:\\Mon_Hoc\\TH_Design_Software\\Asp.net-core-Web-buy-car\\Asp.net-core-Web-buy-car\\ASC.Model\\Models\\ServiceRequest.cs",
+              "RelativeToolTip": "ASC.Model\\Models\\ServiceRequest.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvxwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T13:03:13.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ASC.WEB.csproj",
+              "DocumentMoniker": "D:\\Mon_Hoc\\TH_Design_Software\\Asp.net-core-Web-buy-car\\Asp.net-core-Web-buy-car\\ASC.WEB\\ASC.WEB.csproj",
+              "RelativeDocumentMoniker": "ASC.WEB\\ASC.WEB.csproj",
+              "ToolTip": "D:\\Mon_Hoc\\TH_Design_Software\\Asp.net-core-Web-buy-car\\Asp.net-core-Web-buy-car\\ASC.WEB\\ASC.WEB.csproj",
+              "RelativeToolTip": "ASC.WEB\\ASC.WEB.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-04T13:22:32.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "D:\\Mon_Hoc\\TH_Design_Software\\Asp.net-core-Web-buy-car\\Asp.net-core-Web-buy-car\\ASC.WEB\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "ASC.WEB\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "D:\\Mon_Hoc\\TH_Design_Software\\Asp.net-core-Web-buy-car\\Asp.net-core-Web-buy-car\\ASC.WEB\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "ASC.WEB\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T13:20:46.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MasterDataValue.cs",
+              "DocumentMoniker": "D:\\Mon_Hoc\\TH_Design_Software\\Asp.net-core-Web-buy-car\\Asp.net-core-Web-buy-car\\ASC.Model\\Models\\MasterDataValue.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\Models\\MasterDataValue.cs",
+              "ToolTip": "D:\\Mon_Hoc\\TH_Design_Software\\Asp.net-core-Web-buy-car\\Asp.net-core-Web-buy-car\\ASC.Model\\Models\\MasterDataValue.cs",
+              "RelativeToolTip": "ASC.Model\\Models\\MasterDataValue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T13:03:09.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Mon_Hoc\\TH_Design_Software\\Asp.net-core-Web-buy-car\\Asp.net-core-Web-buy-car\\ASC.WEB\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ASC.WEB\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Mon_Hoc\\TH_Design_Software\\Asp.net-core-Web-buy-car\\Asp.net-core-Web-buy-car\\ASC.WEB\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ASC.WEB\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T13:02:59.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Mon_Hoc\\TH_Design_Software\\Asp.net-core-Web-buy-car\\Asp.net-core-Web-buy-car\\ASC.Model\\Basetypes\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\Basetypes\\BaseEntity.cs",
+              "ToolTip": "D:\\Mon_Hoc\\TH_Design_Software\\Asp.net-core-Web-buy-car\\Asp.net-core-Web-buy-car\\ASC.Model\\Basetypes\\BaseEntity.cs",
+              "RelativeToolTip": "ASC.Model\\Basetypes\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T09:01:13.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationSettings.cs",
+              "DocumentMoniker": "D:\\Mon_Hoc\\TH_Design_Software\\Asp.net-core-Web-buy-car\\Asp.net-core-Web-buy-car\\ASC.WEB\\Configuration\\ApplicationSettings.cs",
+              "RelativeDocumentMoniker": "ASC.WEB\\Configuration\\ApplicationSettings.cs",
+              "ToolTip": "D:\\Mon_Hoc\\TH_Design_Software\\Asp.net-core-Web-buy-car\\Asp.net-core-Web-buy-car\\ASC.WEB\\Configuration\\ApplicationSettings.cs",
+              "RelativeToolTip": "ASC.WEB\\Configuration\\ApplicationSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T09:45:19.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IIdentitySeed.cs",
+              "DocumentMoniker": "D:\\Mon_Hoc\\TH_Design_Software\\Asp.net-core-Web-buy-car\\Asp.net-core-Web-buy-car\\ASC.WEB\\Data\\IIdentitySeed.cs",
+              "RelativeDocumentMoniker": "ASC.WEB\\Data\\IIdentitySeed.cs",
+              "ToolTip": "D:\\Mon_Hoc\\TH_Design_Software\\Asp.net-core-Web-buy-car\\Asp.net-core-Web-buy-car\\ASC.WEB\\Data\\IIdentitySeed.cs",
+              "RelativeToolTip": "ASC.WEB\\Data\\IIdentitySeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T08:47:33.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IdentitySeed.cs",
+              "DocumentMoniker": "D:\\Mon_Hoc\\TH_Design_Software\\Asp.net-core-Web-buy-car\\Asp.net-core-Web-buy-car\\ASC.WEB\\Data\\IdentitySeed.cs",
+              "RelativeDocumentMoniker": "ASC.WEB\\Data\\IdentitySeed.cs",
+              "ToolTip": "D:\\Mon_Hoc\\TH_Design_Software\\Asp.net-core-Web-buy-car\\Asp.net-core-Web-buy-car\\ASC.WEB\\Data\\IdentitySeed.cs",
+              "RelativeToolTip": "ASC.WEB\\Data\\IdentitySeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T08:46:21.564Z"
             }
           ]
         }

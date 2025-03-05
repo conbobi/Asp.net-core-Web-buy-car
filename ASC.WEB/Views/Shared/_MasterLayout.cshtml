@@ -1,5 +1,5 @@
 ﻿@using Microsoft.Extensions.Options;
-@using ASC.WEB.Configuracation;
+@using ASC.WEB.Configuration;
 @inject IOptions<ApplicationSettings> _configurationSettings
 
 
@@ -9,7 +9,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    <title>@_configurationSettings.Value.AppplicationTitle</title>
+    <title>@_configurationSettings.Value.ApplicationTitle</title>
 
     <!-- CSS -->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">

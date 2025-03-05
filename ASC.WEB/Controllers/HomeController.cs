@@ -1,4 +1,4 @@
-using ASC.WEB.Configuracation;
+using ASC.WEB.Configuration;
 using ASC.WEB.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.CodeAnalysis.Options;
@@ -20,7 +20,7 @@ namespace ASC.WEB.Controllers
 
         public IActionResult Index()
         {   
-            ViewBag.Title = _settings.Value.AppplicationTitle; 
+            ViewBag.Title = _settings.Value.ApplicationTitle; 
             return View();
         }
 

@@ -1,15 +1,32 @@
-using ASC.WEB.Configuracation;
+﻿using ASC.WEB.Configuration;
 using ASC.WEB.Data;
 using ASC.WEB.Services;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-
+using ASC.DataAccess.Interfaces;
+using ASC.DataAccess.ASC.DataAccess;
+using Microsoft.Extensions.Options;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
+Console.WriteLine($"🔍 Using Connection String: {connectionString}");
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
-    options.UseSqlServer(connectionString));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"),
+        sqlOptions =>
+        {
+            sqlOptions.UseQuerySplittingBehavior(QuerySplittingBehavior.SplitQuery);
+            sqlOptions.CommandTimeout(300);
+        }));
+
+builder.Services.AddIdentity<IdentityUser, IdentityRole>(options =>
+{
+    options.User.RequireUniqueEmail = true;
+}).AddEntityFrameworkStores<ApplicationDbContext>().AddDefaultTokenProviders();
+
+
+builder.Services.AddScoped<DbContext, ApplicationDbContext>();
+
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
 builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
@@ -21,11 +38,12 @@ builder.Services.Configure<ApplicationSettings>(builder.Configuration.GetSection
 
 builder.Services.AddControllersWithViews();
 
+Console.WriteLine(typeof(IIdentitySeed).IsAssignableFrom(typeof(IdentitySeed)));
 // Add application services
 builder.Services.AddTransient<IEmailSender, AuthMessageSender>();
 builder.Services.AddTransient<ISmsSender, AuthMessageSender>();
-
-
+builder.Services.AddScoped<IIdentitySeed, IdentitySeed>();
+builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 
 
 var app = builder.Build();
@@ -53,5 +71,14 @@ app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
 app.MapRazorPages();
+using (var scope = app.Services.CreateScope())
+{
+    var storageSeed = scope.ServiceProvider.GetRequiredService<IIdentitySeed>();
+    await storageSeed.Seed(
+        scope.ServiceProvider.GetService<UserManager<IdentityUser>>(),
+        scope.ServiceProvider.GetService<RoleManager<IdentityRole>>(),
+        scope.ServiceProvider.GetService<IOptions<ApplicationSettings>>()
+    );
+}
 
 app.Run();
