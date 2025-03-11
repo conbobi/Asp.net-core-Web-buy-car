@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 E:\Mon_Hoc\TH_Design_Software\Asp.net-core-Web-buy-car\ASC.Utilities\bin\Debug\net8.0\ASC.Utilities.deps.json
 E:\Mon_Hoc\TH_Design_Software\Asp.net-core-Web-buy-car\ASC.Utilities\bin\Debug\net8.0\ASC.Utilities.dll
 E:\Mon_Hoc\TH_Design_Software\Asp.net-core-Web-buy-car\ASC.Utilities\bin\Debug\net8.0\ASC.Utilities.pdb
@@ -24,3 +25,30 @@ D:\Mon_Hoc\TH_Design_Software\Asp.net-core-Web-buy-car\Asp.net-core-Web-buy-car\
 D:\Mon_Hoc\TH_Design_Software\Asp.net-core-Web-buy-car\Asp.net-core-Web-buy-car\ASC.Utilities\obj\Debug\net8.0\refint\ASC.Utilities.dll
 D:\Mon_Hoc\TH_Design_Software\Asp.net-core-Web-buy-car\Asp.net-core-Web-buy-car\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.pdb
 D:\Mon_Hoc\TH_Design_Software\Asp.net-core-Web-buy-car\Asp.net-core-Web-buy-car\ASC.Utilities\obj\Debug\net8.0\ref\ASC.Utilities.dll
+=======
+D:\KTPM\KTPMNHL\ASC_Solution\ASC.Utilities\bin\Debug\net8.0\ASC.Utilities.deps.json
+D:\KTPM\KTPMNHL\ASC_Solution\ASC.Utilities\bin\Debug\net8.0\ASC.Utilities.dll
+D:\KTPM\KTPMNHL\ASC_Solution\ASC.Utilities\bin\Debug\net8.0\ASC.Utilities.pdb
+D:\KTPM\KTPMNHL\ASC_Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.csproj.AssemblyReference.cache
+D:\KTPM\KTPMNHL\ASC_Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\KTPM\KTPMNHL\ASC_Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.AssemblyInfoInputs.cache
+D:\KTPM\KTPMNHL\ASC_Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.AssemblyInfo.cs
+D:\KTPM\KTPMNHL\ASC_Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.csproj.CoreCompileInputs.cache
+D:\KTPM\KTPMNHL\ASC_Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.sourcelink.json
+D:\KTPM\KTPMNHL\ASC_Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.dll
+D:\KTPM\KTPMNHL\ASC_Solution\ASC.Utilities\obj\Debug\net8.0\refint\ASC.Utilities.dll
+D:\KTPM\KTPMNHL\ASC_Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.pdb
+D:\KTPM\KTPMNHL\ASC_Solution\ASC.Utilities\obj\Debug\net8.0\ref\ASC.Utilities.dll
+D:\Mon_Hoc\TH_Design_Software\ASC_Solution\ASC_Solution\ASC.Utilities\bin\Debug\net8.0\ASC.Utilities.deps.json
+D:\Mon_Hoc\TH_Design_Software\ASC_Solution\ASC_Solution\ASC.Utilities\bin\Debug\net8.0\ASC.Utilities.dll
+D:\Mon_Hoc\TH_Design_Software\ASC_Solution\ASC_Solution\ASC.Utilities\bin\Debug\net8.0\ASC.Utilities.pdb
+D:\Mon_Hoc\TH_Design_Software\ASC_Solution\ASC_Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.csproj.AssemblyReference.cache
+D:\Mon_Hoc\TH_Design_Software\ASC_Solution\ASC_Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mon_Hoc\TH_Design_Software\ASC_Solution\ASC_Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.AssemblyInfoInputs.cache
+D:\Mon_Hoc\TH_Design_Software\ASC_Solution\ASC_Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.AssemblyInfo.cs
+D:\Mon_Hoc\TH_Design_Software\ASC_Solution\ASC_Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.csproj.CoreCompileInputs.cache
+D:\Mon_Hoc\TH_Design_Software\ASC_Solution\ASC_Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.dll
+D:\Mon_Hoc\TH_Design_Software\ASC_Solution\ASC_Solution\ASC.Utilities\obj\Debug\net8.0\refint\ASC.Utilities.dll
+D:\Mon_Hoc\TH_Design_Software\ASC_Solution\ASC_Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.pdb
+D:\Mon_Hoc\TH_Design_Software\ASC_Solution\ASC_Solution\ASC.Utilities\obj\Debug\net8.0\ref\ASC.Utilities.dll
+>>>>>>> e28523f (Lab 3)

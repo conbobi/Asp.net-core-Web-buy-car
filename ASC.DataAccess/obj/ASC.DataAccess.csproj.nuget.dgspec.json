@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "D:\\Mon_Hoc\\TH_Design_Software\\Asp.net-core-Web-buy-car\\Asp.net-core-Web-buy-car\\ASC.DataAccess\\ASC.DataAccess.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "D:\\Mon_Hoc\\TH_Design_Software\\Asp.net-core-Web-buy-car\\Asp.net-core-Web-buy-car\\ASC.DataAccess\\ASC.DataAccess.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
         "outputPath": "D:\\Mon_Hoc\\TH_Design_Software\\Asp.net-core-Web-buy-car\\Asp.net-core-Web-buy-car\\ASC.DataAccess\\obj\\",
+=======
+    "D:\\Mon_Hoc\\TH_Design_Software\\ASC_Solution\\ASC_Solution\\ASC.DataAccess\\ASC.DataAccess.csproj": {}
+  },
+  "projects": {
+    "D:\\Mon_Hoc\\TH_Design_Software\\ASC_Solution\\ASC_Solution\\ASC.DataAccess\\ASC.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Mon_Hoc\\TH_Design_Software\\ASC_Solution\\ASC_Solution\\ASC.DataAccess\\ASC.DataAccess.csproj",
+        "projectName": "ASC.DataAccess",
+        "projectPath": "D:\\Mon_Hoc\\TH_Design_Software\\ASC_Solution\\ASC_Solution\\ASC.DataAccess\\ASC.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Mon_Hoc\\TH_Design_Software\\ASC_Solution\\ASC_Solution\\ASC.DataAccess\\obj\\",
+>>>>>>> e28523f (Lab 3)
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +46,19 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+<<<<<<< HEAD
               "D:\\Mon_Hoc\\TH_Design_Software\\Asp.net-core-Web-buy-car\\Asp.net-core-Web-buy-car\\ASC.Model\\ASC.Model.csproj": {
                 "projectPath": "D:\\Mon_Hoc\\TH_Design_Software\\Asp.net-core-Web-buy-car\\Asp.net-core-Web-buy-car\\ASC.Model\\ASC.Model.csproj"
               },
               "D:\\Mon_Hoc\\TH_Design_Software\\Asp.net-core-Web-buy-car\\Asp.net-core-Web-buy-car\\ASC.Utilities\\ASC.Utilities.csproj": {
                 "projectPath": "D:\\Mon_Hoc\\TH_Design_Software\\Asp.net-core-Web-buy-car\\Asp.net-core-Web-buy-car\\ASC.Utilities\\ASC.Utilities.csproj"
+=======
+              "D:\\Mon_Hoc\\TH_Design_Software\\ASC_Solution\\ASC_Solution\\ASC.Model\\ASC.Model.csproj": {
+                "projectPath": "D:\\Mon_Hoc\\TH_Design_Software\\ASC_Solution\\ASC_Solution\\ASC.Model\\ASC.Model.csproj"
+              },
+              "D:\\Mon_Hoc\\TH_Design_Software\\ASC_Solution\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj": {
+                "projectPath": "D:\\Mon_Hoc\\TH_Design_Software\\ASC_Solution\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj"
+>>>>>>> e28523f (Lab 3)
               }
             }
           }
@@ -56,6 +78,15 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+<<<<<<< HEAD
+=======
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Extensions": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            }
+          },
+>>>>>>> e28523f (Lab 3)
           "imports": [
             "net461",
             "net462",
@@ -76,6 +107,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "D:\\Mon_Hoc\\TH_Design_Software\\Asp.net-core-Web-buy-car\\Asp.net-core-Web-buy-car\\ASC.Model\\ASC.Model.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -84,6 +116,16 @@
         "projectPath": "D:\\Mon_Hoc\\TH_Design_Software\\Asp.net-core-Web-buy-car\\Asp.net-core-Web-buy-car\\ASC.Model\\ASC.Model.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
         "outputPath": "D:\\Mon_Hoc\\TH_Design_Software\\Asp.net-core-Web-buy-car\\Asp.net-core-Web-buy-car\\ASC.Model\\obj\\",
+=======
+    "D:\\Mon_Hoc\\TH_Design_Software\\ASC_Solution\\ASC_Solution\\ASC.Model\\ASC.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Mon_Hoc\\TH_Design_Software\\ASC_Solution\\ASC_Solution\\ASC.Model\\ASC.Model.csproj",
+        "projectName": "ASC.Model",
+        "projectPath": "D:\\Mon_Hoc\\TH_Design_Software\\ASC_Solution\\ASC_Solution\\ASC.Model\\ASC.Model.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Mon_Hoc\\TH_Design_Software\\ASC_Solution\\ASC_Solution\\ASC.Model\\obj\\",
+>>>>>>> e28523f (Lab 3)
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -122,6 +164,13 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+<<<<<<< HEAD
+=======
+            "Microsoft.AspNetCore.Http.Extensions": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+>>>>>>> e28523f (Lab 3)
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.11, )"
@@ -151,6 +200,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "D:\\Mon_Hoc\\TH_Design_Software\\Asp.net-core-Web-buy-car\\Asp.net-core-Web-buy-car\\ASC.Utilities\\ASC.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -159,6 +209,16 @@
         "projectPath": "D:\\Mon_Hoc\\TH_Design_Software\\Asp.net-core-Web-buy-car\\Asp.net-core-Web-buy-car\\ASC.Utilities\\ASC.Utilities.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
         "outputPath": "D:\\Mon_Hoc\\TH_Design_Software\\Asp.net-core-Web-buy-car\\Asp.net-core-Web-buy-car\\ASC.Utilities\\obj\\",
+=======
+    "D:\\Mon_Hoc\\TH_Design_Software\\ASC_Solution\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Mon_Hoc\\TH_Design_Software\\ASC_Solution\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj",
+        "projectName": "ASC.Utilities",
+        "projectPath": "D:\\Mon_Hoc\\TH_Design_Software\\ASC_Solution\\ASC_Solution\\ASC.Utilities\\ASC.Utilities.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Mon_Hoc\\TH_Design_Software\\ASC_Solution\\ASC_Solution\\ASC.Utilities\\obj\\",
+>>>>>>> e28523f (Lab 3)
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -197,6 +257,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+<<<<<<< HEAD
+=======
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Extensions": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+>>>>>>> e28523f (Lab 3)
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.3, )"
